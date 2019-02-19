@@ -1,6 +1,6 @@
 [user]
-    name = Igor Paranhos
-    email = igor@2xt.com.br
+    name = user
+    email = user@email.com
 
 [core]
     editor = vim
